@@ -2,11 +2,12 @@
 
 Here you can find end-to-end process of model development for binary classification.
 The steps consist of:
-1. Upload dataset & EDA
-2. Modelling by using CatBoost
-3. Validation & Feature Selection
-4. HyperOpt Optimization
-5. PSI calculation
-6. Model report
+1.Reading Dataset from Teradata DWH
+2.Exploratory Analysis
+3.PSI Calculation
+4.Feature Selection & Modelling
+5.HyperOpt Optimization
+6.Model calibration
+7.Model report
 
 
