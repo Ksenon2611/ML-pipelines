@@ -1,6 +1,6 @@
 # ML-pipelines
 
-Here you can find end-to-end process of model development for <b1>binary classification</b1>.
+Here you can find end-to-end process of model development for binary classification.
 </br>The steps consist of:</br>
 1. Reading Dataset from Teradata DWH</br>
 2. Exploratory Analysis</br>
